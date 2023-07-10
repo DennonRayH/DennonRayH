@@ -27,5 +27,5 @@
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="dennonrayhutchinson@hotmail.com" target="_blank" rel="noopener noreferrer">Email  width="50" /></a>
+&nbsp; <a href="dennonrayhutchinson@hotmail.com" target="_blank" rel="noopener noreferrer">Email </a>
 </p>
